@@ -26,8 +26,8 @@ class _NavDrawer extends State<NavDrawer> {
             //         image: AssetImage('assets/images/cover.jpg'))),
           ),
           ListTile(
-            leading: const Icon(Icons.input),
-            title: const Text('Welcome'),
+            leading: const Icon(Icons.edit_calendar),
+            title: const Text('Cerca ombrelloni'),
             onTap: () => {
               Navigator.pushReplacement(
                   context,
