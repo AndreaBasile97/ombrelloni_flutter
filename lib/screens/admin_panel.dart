@@ -10,7 +10,7 @@ class AdminPanel extends StatefulWidget {
 class _AdminPanel extends State<AdminPanel> {
   String text = "Initial Text";
   List<Widget> widgetList = [
-    Scaffold(backgroundColor: Colors.amber),
+    Scaffold(backgroundColor: Colors.yellow),
     Prenotazioni(),
     Scaffold(backgroundColor: Colors.red),
     Scaffold(backgroundColor: Colors.green)

@@ -1,0 +1,9 @@
+NODE_ENV=development
+PORT=3333
+
+# DATABASE
+MONGO_HOST=localhost
+MONGO_PORT=27017
+MONGO_DATABASE=ombrelloni_mongo
+MONGO_USERNAME=ombrelloni_mongo-user
+MONGO_PASSWORD=secret
